@@ -20,6 +20,7 @@ def num(l):
         l1.append(s[::-1])
     return l1
 
+l=[]
 n=int(input())
 for i in range(n):
     l.append(int(input()))
